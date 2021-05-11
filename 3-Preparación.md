@@ -42,4 +42,4 @@ Así se vería el editor de texto Visual Studio Code, este programa tiene una te
 
 ![1](./assets/images/1.png)
 
-[< Anterior](./2-JavaScript.md) [Siguiente >](./4-Preparación.md)
+[< Anterior](./2-JavaScript.md) [Siguiente >](./4-Hello-World.md)

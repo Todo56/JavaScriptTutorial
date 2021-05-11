@@ -4,6 +4,7 @@
 - **Lenguaje de Bajo Nivel**: Lenguaje de programación considerado más difícil que requiere que el programador maneje los recursos.
 - **Client Sided**:
 - **Server Sided**:
+- **Bug**: 
 - **Módulos de JavaScript**: Los módulos de JavaScript son programas escritos por otras personas que puedes utilizar en tu código para simplificar lo que debes escribir. Todos estos módulos se pueden encontrar en la siguiente página web: https://npmjs.org
 - **NodeJS**: Server Sided JavaScript.
 - **Servidor**: Ordenador que ofrece servicios online, ya sea una página web, un servicio de streaming, conexión a un juego online...
@@ -13,3 +14,6 @@
 - **Hello World**: "Hola Mundo" en inglés. Normalmente el primer código de todos los programadores en todos los lenguajes suele ser este.
 - **Variables**: Una variable es una palabra en nuestro código que guarda un valor.
 - **Lenguaje sin tipos**: En programación, a diferentes variables se le asigna un tipo según su valor. Una variable con este valor: 1343423 se consideraría un *integer* o número en inglés, pero a esto "Hello World" se le consideraría un *string* o frase en inglés. En javascript, tu puedes sumar los dos valores y te lo accepta.
+- **Extensión de Archivo**: Cada archivo tiene una extension que le dice a diferentes programas cómo leer este o con que programa ejecutarlo. En el caso de JavaScript, la extensión es .js pero hay otros para cada lenguaje (.cpp, .h, .a, .java, .jar, .php, .phar...).
+- **GitHub**: GitHub.com es como una red social de programadores donde puedes compartir código, mejorar el de los demás, colaborar con ellos, reportar bugs... Para hacer todo eso, GitHub utiliza el protocolo "git", para más información mira la documentación del protocolo: https://git-scm.com/doc
+- **StackOverflow**: Stackoverflow.com es una página web operada por el grupo de foros Stack Exchange en el cual los programadores realizan todo tipo de preguntas sobre cualquier lenguaje. Se dice que es una comunidad tóxica. 

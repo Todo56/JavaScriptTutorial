@@ -8,6 +8,17 @@ Después podemos proceder a crear nuestro primer archivo `.js`. Esta extensión 
 
 ![4](./assets/images/4.png)
 
+Ahora ya estamos completamente preparados para programar nuestro primer código en JavaScript. Como hemos mencionado anteriormente, normalmente este código suele ser "Hello World" y este caso no será diferente.
+Si ponemos esta línea de código en el archivo de `index.js` y ejecutamos el comando `node index.js` podremos ver como imprime "Hello World" en la consola.
+```js
+console.log("Hello World");
+``` 
 
+![5](./assets/images/5.png)
 
-[< Anterior](./3-Preparación.md) [Siguiente >](./5-.md)
+El comando `node` es muy importante, con este comando se ejecutan los archivos por lo tanto es un comando que se debe recordar.
+En este código utilizamos la función "log" de la variable consola, que representa tu consola. Las funciones de programación son muy similares a las matemáticas, en este caso, lo que se ponga dentro de la función será el texto que se ponga en la consola.
+
+El texto de la función se puede cambiar por lo que quieras, pero debe estar entre comillas ya que si no, el código no puede diferenciar eso de una variable, las cuales estudiaremos posteriormente.
+
+[< Anterior](./3-Preparación.md) [Siguiente >](./5-Variables-.md)

@@ -1,0 +1,2 @@
+# Primer Código
+Una vez tenemos nuestra máquina preparada para programar podemos comenzar. Crea un nuevo archivo en Visual Studio Code que se llame `helloworld.js`. La extensión ".js" se utiliza para los archivos de JavaScript y es esencial.

@@ -21,4 +21,7 @@ En este código utilizamos la función "log" de la variable consola, que represe
 
 El texto de la función se puede cambiar por lo que quieras, pero debe estar entre comillas ya que si no, el código no puede diferenciar eso de una variable, las cuales estudiaremos posteriormente.
 
+![5](./assets/images/6.png)
+
+
 [< Anterior](./3-Preparación.md) [Siguiente >](./5-Variables-.md)

@@ -2,9 +2,9 @@
 - **Lenguaje de Programación**: Idioma que se puede transferir a binario, ya que un ordenador sólo sabe binario. Cada lenguaje tiene su forma de hacer esto y cuenta con su sintaxis, palabras y reglas.
 - **Lenguaje de Alto Nivel**: Lenguaje de programación que maneja todos los recursos del ordenador por el usuario para ser simple.
 - **Lenguaje de Bajo Nivel**: Lenguaje de programación considerado más difícil que requiere que el programador maneje los recursos.
-- **Client Sided**:
-- **Server Sided**:
-- **Bug**: 
+- **Client Sided**: "Del cliente", código que ejecuta el cliente.
+- **Server Sided**: "Del servidor", código que se ejecuta en el servidor en si. El usuario no tiene control sobre este pero el servidor tarda más en responder al cliente ya que debe procesar información previamente.
+- **Bug**: Error dentro del programa que causa que el programa tenga un comportamiento no esperado.
 - **Módulos de JavaScript**: Los módulos de JavaScript son programas escritos por otras personas que puedes utilizar en tu código para simplificar lo que debes escribir. Todos estos módulos se pueden encontrar en la siguiente página web: https://npmjs.org
 - **NodeJS**: Server Sided JavaScript.
 - **Servidor**: Ordenador que ofrece servicios online, ya sea una página web, un servicio de streaming, conexión a un juego online...

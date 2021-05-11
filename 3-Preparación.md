@@ -38,6 +38,8 @@ Personalmente recomiendo programas cómo [Visual Studio Code](https://code.visua
 
 Una vez tengamos todas estas herramientas instaladas en nuestro ordenador ya podríamos empezar a programar JavaScript (Server Sided).
 
-Así se vería el editor de texto Visual Studio Code, este programa tiene una terminal integrada por lo tanto no vas a tener que utilizar la integrada en tu sistema operativo.
+Así se vería el editor de texto Visual Studio Code, este programa tiene una terminal integrada por lo tanto no vas a tener que utilizar la integrada en tu sistema operativo. Esta se puede activar seleccionando el botón de terminal en la barra superior.
+
+![1](./assets/images/1.png)
 
 [< Anterior](./2-JavaScript.md) [Siguiente >](./4-Preparación.md)

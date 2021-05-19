@@ -7,9 +7,22 @@ Las variables se pueden declarar utilizando los siguientes tipos de variables. N
 ### Let
 
 ### Const
+Const es una constante, esta variable NO se puede modificar.
+```js
+const constVariable = "Hola";
+
+// ESTO ES "ILEGAL" (Soltará un error):
+const constVariable = "A";
+```
 
 ### Var (deprecado)
+Var es un tipo de variable que se puede cambiar cuando quieras. Pero esta variable ya está deprecada por lo tanto no se utiliza hoy en día. 
+Ejemplo:
+```js
+var varVariable = "Hello World";
 
+var varVariable = "Hola Mundo";
+```
 
 ## Tipos de Valores de Variables
 Estos tipos de valores se pueden aplicar a varios lenguajes pero a veces cambian, por lo tanto se deben considerar valores para JavaScript.

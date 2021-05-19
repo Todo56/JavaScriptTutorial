@@ -23,3 +23,5 @@
 - **;**:
 - **Range Error**:
 - **Error de Type**:
+- **Deprecado**:
+- **Variable**:

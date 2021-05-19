@@ -16,9 +16,11 @@ En este caso, el igual débil respondería que es cierto ya que no tiene en cuen
 console.log("1" == 1); // Pondría true.
 ```
 
-El igual estricto, requiere que las variables sean IDENTICAS, por lo tanto este sería el resultado:
+El igual estricto, requiere que las variables sean IDÉNTICAS, por lo tanto este sería el resultado:
 ```js
 console.log("1" === 1); // Pondría false.
 ```
+
+Te invito a que experimentes con estos operadores en tu propio editor.
 
 [< Anterior](./5-Variables.md) [Siguiente >](./7-Condicionales.md)

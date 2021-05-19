@@ -2,7 +2,7 @@
 A veces, como programador te conviene guardar valores en el código para que puedas utilizarlos más tarde o varias veces sin tener que repetirlos. También te puede interesar para operar el valor. Para eso se utilizan las variables, estas se guardan en la memoria RAM i se pueden utilizar dentro del bloque de código.
 
 ## Tipos de Variables
-Las variables se pueden declarar utilizando los siguientes tipos de variables. Normalmente al declarar las variables se utiliza una ";" para decir al ordernador que se ha acabado la línia de código.
+Las variables se pueden declarar utilizando los siguientes tipos de variables. Normalmente al declarar las variables se utiliza una ";" para decir al ordenador que se ha acabado la línea de código.
 
 ### Let
 
@@ -48,7 +48,7 @@ let float = -12124.124
 ```
 
 ### Object
-Esta es una manera de guardar como subapartados en variables que se puede utilizar. Por lo tanto se puede definir variables dentro de esa misma variable.
+Esta es una manera de guardar como sub apartados en variables que se puede utilizar. Por lo tanto se puede definir variables dentro de esa misma variable.
 ```js
 let object = {
     variable1: "jajajja",
@@ -78,5 +78,6 @@ let array = [
 
 ```
 
+Te invito a que experimentes con los tipos de variables.
 
 [< Anterior](./4-Hello-World.md) [Siguiente >](./6-Operadores.md)

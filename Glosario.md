@@ -13,7 +13,13 @@
 - **Terminal/Consola**: Programa integrado en tu sistema operativo que te permite ejecutar comandos y modificar algunos aspectos del sistema operativo.
 - **Hello World**: "Hola Mundo" en inglés. Normalmente el primer código de todos los programadores en todos los lenguajes suele ser este.
 - **Variables**: Una variable es una palabra en nuestro código que guarda un valor.
-- **Lenguaje sin tipos**: En programación, a diferentes variables se le asigna un tipo según su valor. Una variable con este valor: 1343423 se consideraría un *integer* o número en inglés, pero a esto "Hello World" se le consideraría un *string* o frase en inglés. En javascript, tu puedes sumar los dos valores y te lo accepta.
+- **Lenguaje sin tipos**: En programación, a diferentes variables se le asigna un tipo según su valor. Una variable con este valor: 1343423 se consideraría un *integer* o número en inglés, pero a esto "Hello World" se le consideraría un *string* o frase en inglés. En javascript, tu puedes sumar los dos valores y te lo acepta.
 - **Extensión de Archivo**: Cada archivo tiene una extension que le dice a diferentes programas cómo leer este o con que programa ejecutarlo. En el caso de JavaScript, la extensión es .js pero hay otros para cada lenguaje (.cpp, .h, .a, .java, .jar, .php, .phar...).
 - **GitHub**: GitHub.com es como una red social de programadores donde puedes compartir código, mejorar el de los demás, colaborar con ellos, reportar bugs... Para hacer todo eso, GitHub utiliza el protocolo "git", para más información mira la documentación del protocolo: https://git-scm.com/doc
-- **StackOverflow**: Stackoverflow.com es una página web operada por el grupo de foros Stack Exchange en el cual los programadores realizan todo tipo de preguntas sobre cualquier lenguaje. Se dice que es una comunidad tóxica. 
+- **StackOverflow**: Stackoverflow.com es una página web operada por el grupo de foros Stack Exchange en el cual los programadores realizan todo tipo de preguntas sobre cualquier lenguaje. Se dice que es una comunidad tóxica y no muy amigable con los principiantes. 
+- **Spaghetti Code**: Código muy poco comprensible y sin comentarios.
+- **Comentarios**:
+- **Error de Sintaxis**:
+- **;**:
+- **Range Error**:
+- **Error de Type**:

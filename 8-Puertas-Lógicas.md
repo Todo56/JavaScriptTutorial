@@ -15,7 +15,25 @@ En este caso el console.log se ejecutaría.
 
 ## OR
 Esta puerta lógicas sirve para comparar varios valores y en el caso de que alguno sea "true" se ejecutará el código dentro del condicional.
+```js
+let ventanaAbierta = true;
+let puertaAbierta = false;
+
+if(ventanaAbierta || puertaAbierta){
+    console.log("Alarma suena.");
+}
+
+```
 
 ## AND
+Esta puerta lógica sirve para ejecutar una pieza de código solo si dos variables son "true".
+```js
+let trenEnLaEstacion = true;
+let trenParado = true;
+
+if(trenEnLaEstacion && trenParado){
+    console.log("Se deben abrir las puertas.");
+}
+```
 
 [< Anterior](./7-Condicionales.md) [Siguiente >](./9-Loops.md)

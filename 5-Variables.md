@@ -5,6 +5,17 @@ A veces, como programador te conviene guardar valores en el código para que pue
 Las variables se pueden declarar utilizando los siguientes tipos de variables. Normalmente al declarar las variables se utiliza una ";" para decir al ordenador que se ha acabado la línea de código.
 
 ### Let
+Let es una variable que se puede modificar, pero no utilizando otro let.
+```js
+let variable1 = "A";
+
+variable1 = "Hola";
+
+console.log(variable1); // MOSTRARÁ "Hola"
+
+// ESTO ES "ILEGAL" (Soltará un error ya que no podemos declarar con let la misma variable):
+let variable1 = "dqdqw"; 
+```
 
 ### Const
 Const es una constante, esta variable NO se puede modificar.

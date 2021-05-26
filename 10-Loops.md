@@ -29,9 +29,35 @@ Este código contaría hasta 9 como se puede ver más abajo. ¿Sabes porque?
 
 ![8](./assets/images/8.png)
 
+En el caso del "while" se debe destacar que primero comprueba el valor y después hace la acción, esto es para diferenciarlo del siguiente bucle. 
+
 ## Do X While
+Este bucle es muy similar, pero en lugar de comprobar el valor antes, ejecuta código antes y después ya mira el valor. Para comprobarlo, podemos traducir el código anterior que mostraba números hasta el 9 y ver que pasa.
+```js
+let variable = 0;
+do {
+    variable++;
+    console.log(variable);
+} while (variable < 10);
+
+```
+
+![0](./assets/images/9.png)
 
 ## Foreach
+Este bucle es completamente diferente a los previamente mencionados. Aquí volverá el tipo de variable array, que como podemos recordar, es una lista de otras variables. Todos los arrays tienen dentro de ellos una función que como la .log() nos permite hacer algo especial. Esta función se apoda "foreach" que se traduce más o menos como "por cada uno", como su nombre indica, esta función nos permite ejecutar código para todos los elementos que tiene esta lista de valores y obtener cada elemento en una variable que queramos dentro de la función.
+Entiendo que este texto no es siempre obvio por lo tanto los siguientes ejemplos pueden resultar útiles.
+
+```js
+let lista = ["Juan", "María", "Pablo", "Eduardo"];
+
+lista.forEach(amigo => {
+    console.log(amigo);
+});
+
+```
+// TODO
+
 
 ## For
 

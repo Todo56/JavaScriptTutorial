@@ -35,4 +35,4 @@ Este código contaría hasta 9 como se puede ver más abajo. ¿Sabes porque?
 
 ## For
 
-[< Anterior](./8-Puertas-Lógicas.md) [Siguiente >](./10-Comentarios.md)
+[< Anterior](./9-Puertas-Lógicas.md) [Siguiente >](./11-Comentarios.md)

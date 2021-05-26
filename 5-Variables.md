@@ -104,4 +104,4 @@ let array = [
 
 Te invito a que experimentes con los tipos de variables.
 
-[< Anterior](./4-Hello-World.md) [Siguiente >](./6-Comparadores.md)
+[< Anterior](./4-Hello-World.md) [Siguiente >](./6-Operadores.md)

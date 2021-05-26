@@ -26,4 +26,4 @@ if(decirAlgo){
 */
 
 ```
-[< Anterior](./9-Loops.md) [Siguiente >](./11-Funciones.md)
+[< Anterior](./10-Loops.md) [Siguiente >](./12-Funciones.md)

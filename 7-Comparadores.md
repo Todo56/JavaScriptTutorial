@@ -25,4 +25,4 @@ console.log("1" === 1); // Pondría false.
 
 Te invito a que experimentes con estos comparadores en tu propio editor.
 
-[< Anterior](./5-Variables.md) [Siguiente >](./7-Condicionales.md)
+[< Anterior](./6-Operadores.md) [Siguiente >](./8-Condicionales.md)

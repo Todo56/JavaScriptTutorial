@@ -69,4 +69,4 @@ Como podemos observar, la sintaxis de este condicional es muy diferente a los de
 
 Te invito a que experimentes con estos condicionales en tu propio editor, incluso con el switch si quieres aprender como funciona.
 
-[< Anterior](./6-Comparadores.md) [Siguiente >](./8-Puertas-Lógicas.md)
+[< Anterior](./7-Comparadores.md) [Siguiente >](./9-Puertas-Lógicas.md)

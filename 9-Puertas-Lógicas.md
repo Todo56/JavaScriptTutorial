@@ -36,4 +36,4 @@ if(trenEnLaEstacion && trenParado){
 }
 ```
 
-[< Anterior](./7-Condicionales.md) [Siguiente >](./9-Loops.md)
+[< Anterior](./8-Condicionales.md) [Siguiente >](./10-Loops.md)

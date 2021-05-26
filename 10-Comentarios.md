@@ -13,3 +13,17 @@ while(true){
 
 ## Comentarios de diversas líneas
 Estos comentarios se pueden utilizar para remover gran cantidades de código problemático o para poner comentarios entre partes de código. Estos comentarios comienzan donde pones `"/*"` y acaban donde pones `"*/". 
+
+```js
+let decirAlgo = true;
+
+console.log("Comenzando el programa.");
+/*
+Comentanos ese código porque daría error.
+if(decirAlgo){
+    console.log("Debo decir algo";
+}
+*/
+
+```
+[< Anterior](./9-Loops.md) [Siguiente >](./11-Funciones.md)

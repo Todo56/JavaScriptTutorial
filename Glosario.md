@@ -18,9 +18,9 @@
 - **GitHub**: GitHub.com es como una red social de programadores donde puedes compartir código, mejorar el de los demás, colaborar con ellos, reportar bugs... Para hacer todo eso, GitHub utiliza el protocolo "git", para más información mira la documentación del protocolo: https://git-scm.com/doc
 - **StackOverflow**: Stackoverflow.com es una página web operada por el grupo de foros Stack Exchange en el cual los programadores realizan todo tipo de preguntas sobre cualquier lenguaje. Se dice que es una comunidad tóxica y no muy amigable con los principiantes. 
 - **Spaghetti Code**: Código muy poco comprensible y sin comentarios.
-- **Comentarios**:
+- **Comentarios**: Líneas que se ignorarán al ejecutar el código y que sirven para describir la función de unas líneas de código, separarlo entre otros.
 - **Error de Sintaxis**:
-- **;**:
+- **;**: Carácter no muy utilizado en la lengua pero muy importante en la programación. Marca el fin de una línea de código.
 - **Range Error**:
 - **Error de Type**:
 - **Deprecado**:

@@ -19,7 +19,7 @@ let decirAlgo = true;
 
 console.log("Comenzando el programa.");
 /*
-Comentanos ese código porque daría error.
+Comentanos ese código porque daría error (falta un paréntesis).
 if(decirAlgo){
     console.log("Debo decir algo";
 }

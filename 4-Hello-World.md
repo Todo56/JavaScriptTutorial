@@ -24,4 +24,4 @@ El texto de la función se puede cambiar por lo que quieras, pero debe estar ent
 ![7](./assets/images/6.png)
 
 
-[< Anterior](./3-Preparación.md) [Siguiente >](./5-Variables-.md)
+[< Anterior](./3-Preparación.md) [Siguiente >](./5-Variables.md)
